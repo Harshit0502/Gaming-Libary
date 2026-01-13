@@ -122,11 +122,5 @@ Try:
 
 ---
 
-## Credits
-
-* Code comments reference **Bek Brace** and **Michael Hermann (mjhea0)** as original inspirations/sources.
-
----
-
 ```
 ```
