@@ -1,4 +1,3 @@
-```md
 # Gaming Library (Vue.js + Flask Full-Stack SPA)
 
 A simple full-stack “Game Library” app built with **Vue 2** (SPA) on the frontend and a **Flask REST API** on the backend.  
