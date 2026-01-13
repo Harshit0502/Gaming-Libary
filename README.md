@@ -120,7 +120,6 @@ Try:
   ```
 * If you see literal `...` inside Vue files (like `Games.vue` / `Shark.vue`) that causes build errors, remove those `...` lines—they’re not valid JS/Vue code.
 
----
 
 ```
 ```
