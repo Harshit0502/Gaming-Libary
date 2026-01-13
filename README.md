@@ -57,7 +57,7 @@ Base URL: `http://localhost:5000`
   **Body (JSON):**
   ```json
   { "title": "GTA V", "genre": "action", "played": true }
-````
+
 
 * `PUT /games/<game_id>` → updates a game
   **Body (JSON):**
